@@ -16,6 +16,8 @@ streamlit run app.py
 - urlextract
 - emoji
 
+## Note: use the 24 hours format
+
 ## Creator
 
 - [sujit sathe](https://github.com/sujitsathe)
