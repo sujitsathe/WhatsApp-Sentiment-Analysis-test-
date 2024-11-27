@@ -1,11 +1,11 @@
 
-## how to run?
+## how to run this code?
 
-To run the app, type following command in terminal. 
+To run the app, type  the following command in terminal. 
 
 streamlit run app.py
 
-## Libraries used
+## Libraries used (required)
 
 - streamlit
 - matplotlib
